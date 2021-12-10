@@ -1,0 +1,11 @@
+[
+{"tipo":"CASA","numero":157,"rua":"Mexico","bairro":"Jardim America","cidade":"Ituporanga","estado":"Santa Catarina","valor":1000},
+{"tipo":"CASA-GERMINADA","numero":609,"rua":"Presidente Getulio","bairro":"Gruta","cidade":"Ituporanga","estado":"Santa Catarina","valor":500}
+,{"tipo":"APARTAMENTO","numero":95,"rua":"Quatorze de Fevereiro","bairro":"Centro","cidade":"Ituporanga","estado":"Santa Catarina","valor":700}
+,{"tipo":"GALPAO","numero":215,"rua":"Evaldo Kniss","bairro":"GABIROBA","cidade":"Ituporanga","estado":"Santa Catarina","valor":800}
+,{"tipo":"SALA COMERCIAL","numero":348,"rua":"George Washington","bairro":"Centro","cidade":"Rio do Sul","estado":"Santa Catarina","valor":2000}
+,{"tipo":"APARTAMENTO-RESIDENCIAL CHANDON","numero":235,"rua":"Abraham Lincoln","bairro":"centro","cidade":"Rio do Sul","estado":"Santa Catarina","valor":5500}
+,{"tipo":"CASA","numero":792,"rua":"Albert Einstein","bairro":"Canoas","cidade":"Rio do Sul","estado":"Santa Catarina","valor":1100}
+,{"tipo":"CASA","numero":792,"rua":"Alan Turing","bairro":"Canoas","cidade":"Guarulhos","estado":"Sao Paulo","valor":1300}
+,{"tipo":"APARTAMENTO","numero":1209,"rua":"Santos Dumont","bairro":"Centro","cidade":"Londrina","estado":"Parana","valor":1700}
+]

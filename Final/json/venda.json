@@ -1,0 +1,15 @@
+[
+{"tipo":"EDIFICIO","numero":210,"rua":"Abraham Lincoln","bairro":"Jardim America","cidade":"Rio do Sul","estado":"Santa Catarina","valor":3000000.00},
+{"tipo":"SITIO","numero":401,"rua":"Leopoldo Neves","bairro":"Três Barras","cidade":"Ituporanga","estado":"Santa Catarina","valor":600000.00},
+{"tipo":"APARTAMENTO-RESIDENCIAL CHANDON","numero":235,"rua":"Abraham Lincoln","bairro":"centro","cidade":"Rio do Sul","estado":"Santa Catarina","valor":1650000.00}
+,{"tipo":"CASA","numero":507,"rua":"EICHIRO ODA","bairro":"Alabasta","cidade":"Ituporanga","estado":"Santa Catarina","valor":800000.0}
+,{"tipo":"GALPAO","numero":14,"rua":"Rodrigo Curvello","bairro":"Canta Galo","cidade":"Rio do Sul","estado":"Santa Catarina","valor":250000}
+,{"tipo":"SALA COMERCIAL ","numero":101,"rua":"Matilde Sens","bairro":"Centro","cidade":"Ituporanga","estado":"Santa Catarina","valor":30000}
+,{"tipo":"SALA COMERCIAL ","numero":161,"rua":"Carlos Gomes,","bairro":"Centro","cidade":"Rio do Sul","estado":"Santa Catarina","valor":50000}
+,{"tipo":"SHOPPING ","numero":3977,"rua":" Nereu Ramos,","bairro":"Meia Praia","cidade":"Itapema","estado":"Santa Catarina","valor":8000000.0}
+,{"tipo":"APARTAMENTO ","numero":735,"rua":" Gabriel Medina","bairro":"Santo Amaro","cidade":"São Paulo Capital","estado":"São Paulo","valor":400000}
+,{"tipo":"CASA ","numero":1024,"rua":" Gabriel Medina","bairro":"Nossa Senhora dos Navegantes","Porto Alegre":"Rio ","estado":"Rio Grande do Sul","valor":400000}
+
+
+
+]
